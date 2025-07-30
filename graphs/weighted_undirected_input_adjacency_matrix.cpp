@@ -1,4 +1,4 @@
-weighted_directed_input_adjacency_list.cppz
+
 #include <iostream>
 #include <vector>
 
